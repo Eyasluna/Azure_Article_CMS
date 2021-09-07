@@ -32,7 +32,7 @@ class Config(object):
 
     CLIENT_ID = "497609f1-2700-42dc-b6b2-cb6c2e109ffb"
 
-    REDIRECT_PATH = "/login"  # Used to form an absolute URL; 
+    REDIRECT_PATH = "/getAToken"  # Used to form an absolute URL; 
     #must match to app's redirect_uri set in AAD
 
     # You can find the proper permission names from this document
